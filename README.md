@@ -18,9 +18,9 @@ This dashboard offers an overview of critical Key Performance Indicators (KPIs) 
 
 Key Features:
 
-1)Total Loan Applications: Monitor total and Month-to-Date (MTD) applications, scrutinizing Month-over-Month (MoM) trends for actionable insights.
+1) Total Loan Applications: Monitor total and Month-to-Date (MTD) applications, scrutinizing Month-over-Month (MoM) trends for actionable insights.
 
-2)Total Funded Amount: Evaluate the cumulative disbursed funds and track MTD disbursements, analyzing MoM variations to discern funding patterns.
+2) Total Funded Amount: Evaluate the cumulative disbursed funds and track MTD disbursements, analyzing MoM variations to discern funding patterns.
 
 4) Total Amount Received: Assess cash inflows via total and MTD received amounts from borrowers, scrutinizing MoM fluctuations for financial health assessment.
    
@@ -47,7 +47,7 @@ This dashboard offers interactive visualizations to illuminate lending trends, b
 
 Key Visualizations:
 
-1)Monthly Trends by Issue Date (Line Chart): Explore seasonality and long-term trends in lending activities.
+1) Monthly Trends by Issue Date (Line Chart): Explore seasonality and long-term trends in lending activities.
 
 2) Regional Analysis by State (Filled Map): Highlight significant lending regions and analyze geographical disparities.
 
