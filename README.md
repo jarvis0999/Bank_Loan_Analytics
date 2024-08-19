@@ -10,11 +10,14 @@ Our objective is to develop a suite of interconnected dashboards that provide dy
 
 Dashboard 1: Executive Summary(Excel)
 
-Purpose: This dashboard offers an overview of critical Key Performance Indicators (KPIs) essential for evaluating the overall efficiency and performance of our lending activities.
+Purpose: 
+
+This dashboard offers an overview of critical Key Performance Indicators (KPIs) essential for evaluating the overall efficiency and performance of our lending activities.
 
 Key Features:
- Total Loan Applications: Monitor total and Month-to-Date (MTD) applications, scrutinizing Month-over-Month (MoM) trends for actionable insights.
- Total Funded Amount: Evaluate the cumulative disbursed funds and track MTD disbursements, analyzing MoM variations to discern funding patterns.
+
+1)Total Loan Applications: Monitor total and Month-to-Date (MTD) applications, scrutinizing Month-over-Month (MoM) trends for actionable insights.
+Total Funded Amount: Evaluate the cumulative disbursed funds and track MTD disbursements, analyzing MoM variations to discern funding patterns.
  Total Amount Received: Assess cash inflows via total and MTD received amounts from borrowers, scrutinizing MoM fluctuations for financial health assessment.
  Average Interest Rate: Determine the cost of lending by computing and tracking the average interest rate across all loans, including MTD and MoM changes.
  Average Debt-to-Income Ratio (DTI): Evaluate borrowers' financial resilience by calculating the average DTI for all loans and monitoring MTD and MoM changes.
