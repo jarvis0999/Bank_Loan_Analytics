@@ -1,9 +1,11 @@
 # Bank_Loan_Analytics
 
-#Problem Statement
+#Problem Statement:
+
 The current loan data analysis approach lacks depth and interactivity, impeding the extraction of meaningful insights for informed decision-making. Conventional reporting methods fail to offer a comprehensive view of lending operations, borrower behavior, and loan performance metrics. Therefore, there is a critical necessity for advanced dashboard development to overcome these limitations and fully leverage the potential of our loan data.
 
-Objective
+Objective:
+
 Our objective is to develop a suite of interconnected dashboards that provide dynamic and comprehensive insights into our loan data, empowering decision-makers with actionable intelligence derived from rigorous data analysis. These dashboards are meticulously designed to offer a holistic perspective on our lending operations, borrower demographics, loan performance, and financial metrics, facilitating strategic decision-making based on data-driven insights.
 
 Dashboard 1: Executive Summary(Excel)
